@@ -6,6 +6,8 @@ The Bubble Number Game is a fun and engaging HTML, CSS, and JavaScript-based gam
 ## Installation
 
 To play this game, simply visit the provided link or clone the repository and open the index.html file in a web browser.
+
+visit :  https://sagar007-git.github.io/Bubble_Game/
     
 ## Usage/Examples
 
